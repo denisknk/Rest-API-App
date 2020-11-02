@@ -1,5 +1,3 @@
-# test-new
-
 ## Project setup
 ```
 git clone https://github.com/denisknk/Rest-API-App.git
