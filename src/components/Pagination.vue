@@ -41,11 +41,12 @@ export default {
   box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.05);
   text-align: center;
   color: #b17b29;
-  transition: background 0.4s ease;
+  transition: background-color, transform 0.4s ease;
 }
 .pagination_number:hover {
   background-color: rgba(177, 173, 173, 0.637);
   color: white;
+  transform: translateY(-2px);
 }
 .number_selected {
   background-color: rgba(177, 173, 173, 0.637);
